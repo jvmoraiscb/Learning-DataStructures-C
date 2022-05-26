@@ -20,7 +20,12 @@ int main(){
     Retira_aluno(turma, "Celso");
     Imprime_aluno(turma);
 
+    Bruno = Constroi_aluno("Bruno", 3, 10, 10, 10);
     Insere_aluno(turma, Bruno);
+    Imprime_aluno(turma);
+
+    Retira_aluno(turma, "Bruno");
+    Retira_aluno(turma, "Talles");
     Imprime_aluno(turma);
     
     Libera_sentinela(turma);

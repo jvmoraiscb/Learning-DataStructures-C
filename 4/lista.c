@@ -68,6 +68,9 @@ void Retira_aluno(Sentinela* sentinela, char* nome){
 }
 void Imprime_aluno(Sentinela* sentinela){
     Lista* lista_temp = sentinela->first;
+    if(lista_temp == NULL){
+        printf("-\n");
+    }
     while(lista_temp != NULL){
         printf("%s\n", Retorna_nome(lista_temp->aluno));
         lista_temp = lista_temp->next;
