@@ -10,6 +10,8 @@ struct arv
   Arv *sad;
 };
 
+static void imprimeArvore (Arv* arv);
+
 // Cria uma árvore vazia
 Arv *arv_criavazia(void)
 {
@@ -70,9 +72,54 @@ void arv_imprime(Arv *a)
   }
 }
 
+void imprimeCodigo(Arv* arv){
+    printf("\nstrict graph{\n");
+    imprimeArvore(arv);
+    printf("}\n");
+    return;
+}
+
+static void imprimeArvore (Arv* arv){
+    
+    if(arv != NULL){
+        if(arv->sae!=NULL){
+        printf("%s -- %s\n",Retorna_nome_aluno(arv->aluno),Retorna_nome_aluno(arv->sae->aluno));
+        }
+        if(arv->sad!=NULL){
+        printf("%s -- %s\n",Retorna_nome_aluno(arv->aluno),Retorna_nome_aluno(arv->sad->aluno));
+        }
+        imprimeArvore(arv->sae);
+        imprimeArvore(arv->sad);
+    }
+    return;
+}
+
 // retorna a mãe de um dado no
 Arv *arv_pai(Arv *a, char *nome)
 {
+  if (arv_vazia(a))
+  {
+    return NULL;
+  }
+  else
+  {
+    if(a->sae != NULL && (!strcmp(Retorna_nome_aluno(a->sae->aluno), nome))){
+      return a;
+    }
+    else if (a->sad != NULL && (!strcmp(Retorna_nome_aluno(a->sad->aluno), nome))){
+      return a;
+    }
+    else{
+      Arv *sae = arv_pai(a->sae, nome);
+      Arv *sad = arv_pai(a->sad, nome);
+      if(sae != NULL){
+        return sae;
+      }
+      else if(sad != NULL){
+        return sad;
+      }
+    }
+  }
   return NULL;
 }
 
@@ -83,7 +130,7 @@ int folhas(Arv *a)
   {
     return 0;
   }
-  else if (a->sae == NULL && a->sad)
+  else if (a->sae == NULL && a->sad == NULL)
   {
     return 1;
   }
@@ -96,11 +143,37 @@ int folhas(Arv *a)
 // retorna o numero de ocorrencias de um dado caracter na arvore
 int ocorrencias(Arv *a, char *nome)
 {
-  return 0;
+  if (arv_vazia(a))
+  {
+    return 0;
+  }
+  else
+  {
+    if(!strcmp(Retorna_nome_aluno(a->aluno), nome)){
+      return (1 + ocorrencias(a->sae, nome) + ocorrencias(a->sad, nome));
+    }
+    return (ocorrencias(a->sae, nome) + ocorrencias(a->sad, nome));
+  }
 }
 
 // retorna o campo informacao de um dado no
 Aluno *info(Arv *a)
 {
   return a->aluno;
+}
+
+int altura(Arv *a){
+  if(a==NULL){
+    return -1;
+  }
+  else{
+    int sae = altura(a->sae);
+    int sad = altura(a->sad);
+    if(sae > sad){
+      return 1 + sae;
+    }
+    else{
+      return 1+ sad;
+    }
+  }
 }

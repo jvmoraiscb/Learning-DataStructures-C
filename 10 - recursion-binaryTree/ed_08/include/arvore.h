@@ -33,6 +33,9 @@ int arv_pertence(Arv *a, char *nome);
 // imprime as informações dos nós da árvore
 void arv_imprime(Arv *a);
 
+// imprime graphviz online
+void imprimeCodigo(Arv* arv);
+
 // retorna a mãe de um dado no
 Arv *arv_pai(Arv *a, char *nome);
 
