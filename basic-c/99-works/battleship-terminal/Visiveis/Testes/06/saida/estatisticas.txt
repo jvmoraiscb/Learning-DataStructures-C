@@ -1,0 +1,30 @@
+Barbosa
+Tiros Errados: 10
+Tiros Acertados: 30
+Localizacao Media: (5.25,5.88)
+Desvio Padrao da Localizacao: 4.01
+Navios de Barbosa:
+03 - Battleship - ID 02
+27 - Battleship - ID 03
+19 - Cruiser - ID 04
+30 - Cruiser - ID 05
+07 - Destroyer - ID 08
+17 - Destroyer - ID 07
+28 - Destroyer - ID 09
+
+JackSparrow
+Tiros Errados: 28
+Tiros Acertados: 12
+Localizacao Media: (5.45,4.20)
+Desvio Padrao da Localizacao: 3.71
+Navios de JackSparrow:
+01 - Battleship - ID 03
+08 - Battleship - ID 02
+16 - Carrier - ID 01
+02 - Cruiser - ID 05
+29 - Cruiser - ID 04
+03 - Destroyer - ID 08
+05 - Destroyer - ID 07
+27 - Destroyer - ID 09
+32 - Destroyer - ID 10
+11 - Submarine - ID 06

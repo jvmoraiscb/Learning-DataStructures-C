@@ -1,0 +1,14 @@
+Leticia
+Tiros Errados: 3
+Tiros Acertados: 0
+Localizacao Media: (2.00,2.00)
+Desvio Padrao da Localizacao: 0.82
+Navios de Leticia:
+01 - Submarine - ID 01
+
+Thiago
+Tiros Errados: 0
+Tiros Acertados: 3
+Localizacao Media: (1.00,3.00)
+Desvio Padrao da Localizacao: 0.82
+Navios de Thiago:

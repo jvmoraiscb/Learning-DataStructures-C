@@ -1,0 +1,85 @@
+Barbosa
+i10 - Tiro - Battleship - ID 03
+f1 - Tiro - Cruiser - ID 05
+i1 - Tiro - Destroyer - ID 08
+j1 - Tiro - Destroyer - ID 08
+c2 - Tiro - Destroyer - ID 07
+d2 - Tiro - Destroyer - ID 07
+f2 - Tiro - Cruiser - ID 05
+a3 - Tiro - Battleship - ID 02
+c3 - Agua
+f3 - Tiro - Cruiser - ID 05
+i3 - Tiro - Submarine - ID 06
+a4 - Tiro - Battleship - ID 02
+d4 - Agua
+i4 - Tiro - Submarine - ID 06
+a5 - Tiro - Battleship - ID 02
+c5 - Tiro - Carrier - ID 01
+d5 - Tiro - Carrier - ID 01
+e5 - Tiro - Carrier - ID 01
+f5 - Tiro - Carrier - ID 01
+g5 - Tiro - Carrier - ID 01
+i5 - Tiro - Submarine - ID 06
+a6 - Tiro - Battleship - ID 02
+e6 - Agua
+b7 - Agua
+c7 - Agua
+f7 - Agua
+g7 - Tiro - Destroyer - ID 09
+j7 - Agua
+c8 - Tiro - Cruiser - ID 04
+g8 - Tiro - Destroyer - ID 09
+i8 - Agua
+a9 - Tiro - Destroyer - ID 10
+c9 - Tiro - Cruiser - ID 04
+f9 - Agua
+g9 - Agua
+a10 - Tiro - Destroyer - ID 10
+c10 - Tiro - Cruiser - ID 04
+f10 - Tiro - Battleship - ID 03
+g10 - Tiro - Battleship - ID 03
+h10 - Tiro - Battleship - ID 03
+
+JackSparrow
+b1 - Agua
+e1 - Agua
+f1 - Tiro - Battleship - ID 02
+h1 - Agua
+i1 - Agua
+a2 - Agua
+c2 - Tiro - Destroyer - ID 08
+d2 - Tiro - Destroyer - ID 08
+e2 - Agua
+g2 - Agua
+j2 - Agua
+a3 - Agua
+b3 - Agua
+d3 - Agua
+e3 - Agua
+f3 - Tiro - Battleship - ID 02
+h3 - Tiro - Destroyer - ID 07
+i3 - Agua
+b4 - Tiro - Cruiser - ID 04
+g4 - Agua
+h4 - Agua
+j4 - Agua
+b5 - Agua
+c5 - Agua
+e5 - Agua
+h5 - Agua
+i5 - Tiro - Battleship - ID 03
+a6 - Tiro - Destroyer - ID 09
+c6 - Agua
+d6 - Tiro - Cruiser - ID 05
+f6 - Tiro - Cruiser - ID 05
+g6 - Agua
+j6 - Agua
+a7 - Tiro - Destroyer - ID 09
+b7 - Agua
+c7 - Agua
+d7 - Agua
+i7 - Tiro - Battleship - ID 03
+i9 - Agua
+j9 - Agua
+
+Vencedor: Barbosa

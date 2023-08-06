@@ -1,0 +1,11 @@
+Leticia
+b3 - Agua
+b1 - Agua
+b2 - Agua
+
+Thiago
+a2 - Tiro - Submarine - ID 01
+a3 - Tiro - Submarine - ID 01
+a4 - Tiro - Submarine - ID 01
+
+Vencedor: Thiago

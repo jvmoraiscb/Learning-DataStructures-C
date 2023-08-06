@@ -1,0 +1,19 @@
+Loki
+Tiros Errados: 2
+Tiros Acertados: 7
+Localizacao Media: (5.56,5.44)
+Desvio Padrao da Localizacao: 4.14
+Navios de Loki:
+06 - Battleship - ID 02
+01 - Destroyer - ID 03
+04 - Destroyer - ID 01
+
+Sylvie
+Tiros Errados: 1
+Tiros Acertados: 8
+Localizacao Media: (5.89,5.33)
+Desvio Padrao da Localizacao: 4.36
+Navios de Sylvie:
+04 - Battleship - ID 03
+01 - Destroyer - ID 02
+03 - Destroyer - ID 01

@@ -1,0 +1,274 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Loki:
+
+j1:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+jj9:Jogada invalida! Jogue novamente Sylvie:
+
+j10:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+
+Jogada de Loki:
+
+b10:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+i10:Afundou Destroyer
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+ff1:Jogada invalida! Jogue novamente Loki:
+
+f11:Jogada invalida! Jogue novamente Loki:
+
+f5:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+a0:Jogada invalida! Jogue novamente Sylvie:
+
+k10:Jogada invalida! Jogue novamente Sylvie:
+
+a1:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+f4:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+aaa2:Jogada invalida! Jogue novamente Sylvie:
+
+a2:Afundou Destroyer
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+i1:Afundou Destroyer
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+f5:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+a10:Afundou Destroyer
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+e5:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+f6:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X X X . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+abcdefg8:Jogada invalida! Jogue novamente Sylvie:
+
+d5:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+f3:Afundou Battleship
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . X X X X . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+g5:Afundou Battleship
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . X . . . . .
+. . . . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Empate

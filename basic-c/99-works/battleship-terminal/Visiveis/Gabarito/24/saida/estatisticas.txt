@@ -1,0 +1,49 @@
+Mario
+Tiros Errados: 64
+Tiros Acertados: 36
+Localizacao Media: (5.50,5.50)
+Desvio Padrao da Localizacao: 4.06
+Navios de Mario:
+04 - Destroyer - ID 14
+05 - Destroyer - ID 08
+08 - Destroyer - ID 02
+09 - Destroyer - ID 16
+10 - Destroyer - ID 13
+14 - Destroyer - ID 01
+19 - Destroyer - ID 07
+26 - Destroyer - ID 10
+31 - Destroyer - ID 09
+34 - Destroyer - ID 06
+35 - Destroyer - ID 05
+37 - Destroyer - ID 03
+41 - Destroyer - ID 12
+42 - Destroyer - ID 04
+43 - Destroyer - ID 18
+60 - Destroyer - ID 17
+64 - Destroyer - ID 15
+72 - Destroyer - ID 11
+
+Luigi
+Tiros Errados: 64
+Tiros Acertados: 36
+Localizacao Media: (5.50,5.50)
+Desvio Padrao da Localizacao: 4.06
+Navios de Luigi:
+01 - Destroyer - ID 15
+04 - Destroyer - ID 02
+10 - Destroyer - ID 14
+12 - Destroyer - ID 12
+15 - Destroyer - ID 08
+21 - Destroyer - ID 13
+28 - Destroyer - ID 17
+31 - Destroyer - ID 16
+32 - Destroyer - ID 11
+35 - Destroyer - ID 03
+36 - Destroyer - ID 05
+44 - Destroyer - ID 09
+47 - Destroyer - ID 10
+52 - Destroyer - ID 07
+54 - Destroyer - ID 04
+66 - Destroyer - ID 06
+68 - Destroyer - ID 01
+72 - Destroyer - ID 18

@@ -1,0 +1,23 @@
+Batman
+Tiros Errados: 71
+Tiros Acertados: 15
+Localizacao Media: (5.60,5.44)
+Desvio Padrao da Localizacao: 4.02
+Navios de Batman:
+22 - Battleship - ID 02
+05 - Carrier - ID 01
+25 - Cruiser - ID 04
+03 - Destroyer - ID 07
+28 - Submarine - ID 06
+
+Robin
+Tiros Errados: 69
+Tiros Acertados: 17
+Localizacao Media: (5.67,5.51)
+Desvio Padrao da Localizacao: 4.08
+Navios de Robin:
+30 - Battleship - ID 02
+04 - Carrier - ID 01
+16 - Cruiser - ID 06
+14 - Destroyer - ID 07
+51 - Submarine - ID 04

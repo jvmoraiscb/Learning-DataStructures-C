@@ -1,0 +1,2 @@
+tabu_1.txt;invalido
+tabu_2.txt;invalido

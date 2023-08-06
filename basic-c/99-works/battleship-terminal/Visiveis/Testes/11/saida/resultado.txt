@@ -1,0 +1,197 @@
+Leticia
+a7 - Agua
+h2 - Agua
+j7 - Tiro - Submarine - ID 05
+a10 - Agua
+h3 - Agua
+d3 - Agua
+f3 - Agua
+e7 - Agua
+d7 - Agua
+a4 - Tiro - Submarine - ID 01
+b3 - Agua
+i5 - Agua
+i8 - Agua
+a1 - Agua
+b1 - Agua
+i3 - Agua
+f10 - Agua
+c9 - Agua
+e5 - Tiro - Submarine - ID 03
+d2 - Agua
+c7 - Agua
+g2 - Agua
+f7 - Agua
+c2 - Agua
+j2 - Agua
+a2 - Tiro - Submarine - ID 01
+f5 - Agua
+d1 - Agua
+g6 - Agua
+b7 - Agua
+h7 - Agua
+g4 - Agua
+b8 - Agua
+b10 - Agua
+g7 - Agua
+j4 - Agua
+j9 - Agua
+h10 - Agua
+c5 - Tiro - Submarine - ID 02
+f2 - Agua
+h9 - Agua
+j5 - Tiro - Submarine - ID 05
+d9 - Agua
+e4 - Tiro - Submarine - ID 03
+h6 - Agua
+h5 - Agua
+d8 - Tiro - Submarine - ID 04
+a9 - Agua
+i4 - Agua
+i9 - Agua
+g1 - Agua
+e1 - Agua
+i7 - Agua
+i10 - Agua
+j6 - Tiro - Submarine - ID 05
+h1 - Agua
+f6 - Agua
+f9 - Agua
+j3 - Agua
+e6 - Agua
+j8 - Agua
+j1 - Agua
+g8 - Agua
+f4 - Agua
+g3 - Agua
+b5 - Agua
+e9 - Agua
+c8 - Tiro - Submarine - ID 04
+i1 - Agua
+h8 - Agua
+e8 - Tiro - Submarine - ID 04
+c3 - Tiro - Submarine - ID 02
+d4 - Agua
+g10 - Agua
+g9 - Agua
+c4 - Tiro - Submarine - ID 02
+j10 - Agua
+g5 - Agua
+d5 - Agua
+f8 - Agua
+d10 - Agua
+a5 - Agua
+i6 - Agua
+e10 - Agua
+h4 - Agua
+e3 - Tiro - Submarine - ID 03
+a8 - Agua
+b9 - Agua
+b4 - Agua
+i2 - Agua
+a6 - Agua
+e2 - Agua
+c10 - Agua
+c6 - Agua
+f1 - Agua
+a3 - Tiro - Submarine - ID 01
+
+Thiago
+e3 - Tiro - Submarine - ID 03
+d1 - Agua
+d6 - Agua
+j1 - Agua
+d8 - Tiro - Submarine - ID 04
+a8 - Agua
+e2 - Agua
+a1 - Agua
+i3 - Agua
+e4 - Tiro - Submarine - ID 03
+d2 - Agua
+e9 - Agua
+b2 - Agua
+c5 - Tiro - Submarine - ID 02
+a7 - Agua
+d3 - Agua
+g3 - Agua
+g10 - Agua
+h7 - Agua
+h4 - Agua
+d7 - Agua
+g9 - Agua
+g1 - Agua
+f7 - Agua
+f1 - Agua
+e10 - Agua
+f2 - Agua
+g5 - Agua
+a2 - Tiro - Submarine - ID 01
+e6 - Agua
+f9 - Agua
+f4 - Agua
+b8 - Agua
+j6 - Tiro - Submarine - ID 05
+j2 - Agua
+c2 - Agua
+j9 - Agua
+c6 - Agua
+h1 - Agua
+j8 - Agua
+a9 - Agua
+h9 - Agua
+e5 - Tiro - Submarine - ID 03
+c7 - Agua
+h2 - Agua
+b9 - Agua
+b7 - Agua
+g4 - Agua
+b4 - Agua
+h3 - Agua
+c9 - Agua
+i6 - Agua
+i5 - Agua
+j10 - Agua
+g7 - Agua
+b5 - Agua
+i10 - Agua
+c1 - Agua
+c3 - Tiro - Submarine - ID 02
+c4 - Tiro - Submarine - ID 02
+g8 - Agua
+h10 - Agua
+h5 - Agua
+j7 - Tiro - Submarine - ID 05
+b10 - Agua
+c10 - Agua
+d4 - Agua
+j3 - Agua
+i9 - Agua
+j4 - Agua
+i7 - Agua
+a6 - Agua
+b6 - Agua
+e1 - Agua
+f5 - Agua
+d9 - Agua
+f3 - Agua
+j5 - Tiro - Submarine - ID 05
+i4 - Agua
+a10 - Agua
+g6 - Agua
+b3 - Agua
+a4 - Tiro - Submarine - ID 01
+e7 - Agua
+i1 - Agua
+f6 - Agua
+a3 - Tiro - Submarine - ID 01
+e8 - Tiro - Submarine - ID 04
+d5 - Agua
+d10 - Agua
+f10 - Agua
+h6 - Agua
+i8 - Agua
+g2 - Agua
+a5 - Agua
+c8 - Tiro - Submarine - ID 04
+
+Empate

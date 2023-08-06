@@ -1,0 +1,20 @@
+jojoAlves
+Tiros Errados: 26
+Tiros Acertados: 17
+Localizacao Media: (6.05,5.00)
+Desvio Padrao da Localizacao: 4.27
+Navios de jojoAlves:
+15 - Battleship - ID 03
+37 - Carrier - ID 01
+
+jojoMorais
+Tiros Errados: 34
+Tiros Acertados: 9
+Localizacao Media: (5.79,5.44)
+Desvio Padrao da Localizacao: 3.97
+Navios de jojoMorais:
+39 - Battleship - ID 03
+13 - Carrier - ID 01
+33 - Cruiser - ID 02
+29 - Destroyer - ID 04
+04 - Submarine - ID 05

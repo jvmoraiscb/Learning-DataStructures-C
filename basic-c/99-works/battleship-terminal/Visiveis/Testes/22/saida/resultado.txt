@@ -1,0 +1,21 @@
+Loki
+j1 - Tiro - Destroyer - ID 02
+b10 - Tiro - Destroyer - ID 01
+f5 - Tiro - Battleship - ID 03
+f4 - Tiro - Battleship - ID 03
+i1 - Tiro - Destroyer - ID 02
+a10 - Tiro - Destroyer - ID 01
+f6 - Tiro - Battleship - ID 03
+f3 - Tiro - Battleship - ID 03
+
+Sylvie
+j10 - Tiro - Destroyer - ID 03
+i10 - Tiro - Destroyer - ID 03
+a1 - Tiro - Destroyer - ID 01
+a2 - Tiro - Destroyer - ID 01
+f5 - Tiro - Battleship - ID 02
+e5 - Tiro - Battleship - ID 02
+d5 - Tiro - Battleship - ID 02
+g5 - Tiro - Battleship - ID 02
+
+Empate

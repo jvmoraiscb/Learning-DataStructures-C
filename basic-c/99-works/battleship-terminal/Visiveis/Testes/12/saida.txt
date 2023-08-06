@@ -1,0 +1,2756 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Batman:
+
+i5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+
+Jogada de Robin:
+
+j3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+
+Jogada de Batman:
+
+f8:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . . . . . .
+
+Jogada de Robin:
+
+e9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+
+Jogada de Batman:
+
+j6:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . o . . . .
+
+Jogada de Robin:
+
+a2:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+
+Jogada de Batman:
+
+g2:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . o . .
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . o . . . .
+
+Jogada de Robin:
+
+i3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . o . . . . . . .
+
+Jogada de Batman:
+
+c7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . o . .
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . o . . . .
+
+Jogada de Robin:
+
+j7:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+e9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . o . .
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . o . . . .
+
+Jogada de Robin:
+
+f2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+f6:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . o . o . .
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . o . . . . .
+. . . . . o . . . .
+
+Jogada de Robin:
+
+h10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+h4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . o . o . .
+. X . . . . . . . .
+. . . o . . . . . .
+. . . . o . . . . .
+. . . . . o . . . .
+
+Jogada de Robin:
+
+h3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . o
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+j8:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . o . o . .
+. X . . . . . . . .
+. . . o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+h8:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . o . . . . o . o
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+e8:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . . . . . . .
+. . . o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+d9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . o . . . . o . o
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+g6:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . . o . . . .
+. . . o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+h6:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . . . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+g5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . . o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+i5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+h3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+d10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o o
+. . . . . . . . o .
+. o . . . . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+c2:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. X . . . . o . . .
+. . . . . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+f3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o o
+. . . . . . . . o .
+. o o . . . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+d4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. X . . . . o . . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+d3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . . . o .
+. o o . . . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+c8:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . . .
+. X . . . . o X . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+a8:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . . . o .
+. o o . . . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+b9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . o .
+. X . . . . o X . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . . . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+f5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . . . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. . o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+i8:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . . . . . . o .
+. X . . . . o X . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . o . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+h2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . . . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . .
+
+Jogada de Batman:
+
+b4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . . o . . o . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+j10:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . . . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . X
+
+Jogada de Batman:
+
+i4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . o o . . o . .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+e7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . X
+
+Jogada de Batman:
+
+i9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . . .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . o o . . o o .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+b8:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . o . .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . X
+
+Jogada de Batman:
+
+d9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . o o . . o o .
+. . . . . o . o . .
+
+Jogada de Robin:
+
+c1:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . o . .
+X . . . . . . . . .
+. . o . . . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . X
+
+Jogada de Batman:
+
+j3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . . . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . .
+
+Jogada de Robin:
+
+d5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . o . .
+X . . . . . . . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+. . o . . . X . . X
+
+Jogada de Batman:
+
+a5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. . o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . .
+
+Jogada de Robin:
+
+j1:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . . . . . o . .
+X . . . . . . . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+h2:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . .
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . .
+
+Jogada de Robin:
+
+b4:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . .
+. . . X . . . o . .
+X . . . . . . . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+g10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . . . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . .
+
+Jogada de Robin:
+
+a10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . . . . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . . . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+e3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . .
+
+Jogada de Robin:
+
+g3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . . . . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . o . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+j10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . . . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+c6:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . X . . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . o . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+g8:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. . . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+c7:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . o . . . . . . .
+. o o . . o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+a2:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+. X . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+h5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . . . . .
+. . o . . . . . . .
+. o o . o o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+a1:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . . o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+f7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+. . . . . . o . o .
+. o o . o . o . . .
+. . o . . . . . . .
+. o o . o o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+b8:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o . . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+e1:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+. X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . .
+. . o . . . . . . .
+. o o . o o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+d5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . . . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+a1:Afundou Destroyer
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . .
+. . o . . . . . . .
+. o o . o o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+f3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . . o . o . o
+
+Jogada de Robin:
+
+g7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . .
+. . o . . . o . . .
+. o o . o o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+j5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X . . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . o o . o . o
+
+Jogada de Robin:
+
+f10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. . o . . . o . . .
+. o o . o o . o . o
+. . o . o . . . . .
+o . o . . . X . . X
+
+Jogada de Batman:
+
+g3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X o . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . o o . o . o
+
+Jogada de Robin:
+
+i10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. . o . . . o . . .
+. o o . o o . o . o
+. . o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+j7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . . .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X o . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+g2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . . . o . . .
+. o o . o o . o . o
+. . o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+a9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X o . o o . o . o
+. X o o . . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+g9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . . . o . o .
+. o o . o o . o . o
+. . o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+h1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X o . o o . o . o
+o X o o . . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+g5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . . . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . o . o . o .
+. o o . o o . o . o
+. . o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+h5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . . o . o . .
+. X o . o o . o . o
+o X o o o . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+c4:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . o . o . o .
+. o o . o o . o . o
+. . o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+f5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . . . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . o o . o . .
+. X o . o o . o . o
+o X o o o . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+i2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . o . o . o .
+. o o . o o . o . o
+. o o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+c5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . o o . o . .
+. X o . o o . o . o
+o X o o o . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+h7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . . o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+g9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . o o . o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o .
+. . o . o o o o . o
+
+Jogada de Robin:
+
+d8:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o . o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+j1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . o o . o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o .
+o . o . o o o o . o
+
+Jogada de Robin:
+
+f4:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . . . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+f7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o .
+o . o . o o o o . o
+
+Jogada de Robin:
+
+i7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . . X . . X
+
+Jogada de Batman:
+
+j9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. . o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o .
+o . o . o o o o o o
+
+Jogada de Robin:
+
+j6:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . . o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+f2:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o .
+o . o . o o o o o o
+
+Jogada de Robin:
+
+b7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . . . o . o
+. . . X . . o o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+i10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o . . . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+a6:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o . o
+. . . X . . o o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o . . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+e4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . . o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o o . . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+f8:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o . o
+. . . X . . o o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+a8:Afundou Cruiser
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o o . . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+b2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o . o
+. o . X . . o o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o .
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+e5:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o . . . o .
+. . o o X . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+e10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o . o
+. o . X . . o o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+d6:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o .
+. X . . o . o X . .
+. . . o o o . . o .
+. . o o X . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+a9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o o o
+. o . X . . o o . .
+X . . X . X X . . .
+. . o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+c4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o .
+. X . o o . o X . .
+. . . o o o . . o .
+. . o o X . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . . .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+c10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o o o
+. o . X . . o o . .
+X . . X . X X . . o
+. . o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+h9:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o .
+. X . o o . o X . .
+. . . o o o . . o .
+. . o o X . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+c8:Afundou Submarine
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o o o
+. o . X . . o o . .
+X . . X . X X X . o
+. . o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . . X X . . X
+
+Jogada de Batman:
+
+d3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o .
+. X . o o . o X . .
+. . o o o o . . o .
+. . o o X . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+j5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o o o
+. o . X . . o o . .
+X . . X . X X X . o
+. . o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+b10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o o
+. X . o o . o X . .
+. . o o o o . . o .
+. . o o X . . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+c9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o o o
+. o . X . . o o . .
+X . . X . X X X o o
+. . o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+e6:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o o
+. X . o o . o X . .
+. . o o o o . . o .
+. . o o X X . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+d2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . . . o . o o o
+. o . X . . o o . .
+X . . X . X X X o o
+. o o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+d8:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o o
+. X . o o . o X . .
+. . o o o o . o o .
+. . o o X X . o o .
+. X o . o o o o . .
+. X o . o o . o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+a4:Afundou Cruiser
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . . X . X X X o o
+. o o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+g7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o o
+. X . o o . o X . .
+. . o o o o . o o .
+. . o o X X . o o .
+. X o . o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+c5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . . X o X X X o o
+. o o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o . o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+d1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o o
+. X . o o . o X . .
+o . o o o o . o o .
+. . o o X X . o o .
+. X o . o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+i6:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . . X o X X X o o
+. o o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o o o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+f4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . . X o o
+. X . o o . o X . .
+o . o o o o . o o .
+. . o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+c3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o . o . o . o .
+. o o . o o o o . o
+. o o . o o o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+b7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+. . o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o . o . o o o o o o
+
+Jogada de Robin:
+
+g4:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . . o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o o o . o . o .
+. o o . o o o o . o
+. o o . o o o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+j2:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+. . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+. . o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+d7:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o o o . o . o .
+. o o . o o o o . o
+. o o . o o o . . o
+o . o . o X X . . X
+
+Jogada de Batman:
+
+b1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+. . o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+j2:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o o o . o . o .
+. o o . o o o o . o
+. o o . o o o . . o
+o o o . o X X . . X
+
+Jogada de Batman:
+
+e1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+o . o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+j8:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o o o . o . o .
+. o o . o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+e2:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . . o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+o X o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+g10:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o . o o . o
+. o o o o . o . o o
+. o o . o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+a4:Tiro!
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+o X o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o . . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+f6:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X . X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o . o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+i6:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o . o o .
+o X o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o o . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+a3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o . o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+d7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X . o o .
+. X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o o . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+h4:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . . . . . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+f1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X . o o .
+o X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o o . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+e3:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . o . . . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+e7:Afundou Submarine
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+. . . o o o . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+e5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . o . o . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o . o X X X . X
+
+Jogada de Batman:
+
+i1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+o . . o o o . o o o
+o o o . o o o o o o
+
+Jogada de Robin:
+
+j4:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+. o o . o . o o o o
+X . o . o . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+j4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X . X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+o . . o o o . o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+d1:Tiro!
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . . o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+a3:Afundou Battleship
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o . . o . . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+o . . o o o . o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+b6:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o . o o
+. o o o o o o o . o
+. o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+b5:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o . . o o . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o . o o o o o o
+o X o o o . . . o .
+o . . o o o . o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+g1:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o . o o
+. o o o o o o o . o
+o o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+g4:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o . . o o . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o .
+o . . o o o . o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+e8:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X . o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+. o o o o o o o . o
+o o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+i7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o . . o o . o X o o
+. X . o o . o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o .
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+a5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+. o o o o o o o . o
+o o o o o . o . o o
+. o o o o o o o . o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+c6:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o . . o o . o X o o
+. X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o .
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+h9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+. o o o o o o o . o
+o o o o o . o . o o
+. o o o o o o o o o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+b3:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o . o o o . o X o o
+. X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o .
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+h1:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+. o o o o o o o . o
+o o o o o . o . o o
+o o o o o o o o o o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+b2:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+. X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o .
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+f1:Afundou Battleship
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+X o o o o o o o . o
+o o o o o . o . o o
+o o o o o o o o o o
+. o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+c1:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+o X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o .
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+i1:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+X o o o o o o o . o
+o o o o o . o . o o
+o o o o o o o o o o
+o o o . o o o . . o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+h10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+o X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . . . o o
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+i9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o . o . o o o o
+X o o o o o o o . o
+o o o o o . o . o o
+o o o o o o o o o o
+o o o . o o o . o o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+h7:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+o X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o .
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . o . o o
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+e4:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X . o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o o o . o o o o
+X o o o o o o o . o
+o o o o o . o . o o
+o o o o o o o o o o
+o o o . o o o . o o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+e10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+o X . o o o o X . .
+o . o o o o o o o .
+o X o o X X X o o o
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . o . o o
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+b5:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X o o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o o o . o o o o
+X o o o o o o o . o
+o o o o o . o . o o
+o o o o o o o o o o
+o o o . o o o . o o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+c10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+o X . o o o o X . o
+o . o o o o o o o .
+o X o o X X X o o o
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . o . o o
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+f9:Agua
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X o o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o o o . o o o o
+X o o o o o o o o o
+o o o o o . o . o o
+o o o o o o o o o o
+o o o . o o o . o o
+o o o o o X X X . X
+
+Jogada de Batman:
+
+d10:Agua
+
+Tabuleiro atual de Robin apos a jogada de Batman
+X X X X o . . X o .
+o o o o o . o X o o
+o X . o o o o X . o
+o . o o o o o o o o
+o X o o X X X o o o
+o X o o o o o o . .
+. X o o o o o o o o
+o X o o o . o . o o
+o . . o o o o o o o
+o o o o o o o o o o
+
+Jogada de Robin:
+
+j9:Afundou Carrier
+
+Tabuleiro atual de Batman apos a jogada de Robin
+X X o X o o . o o o
+. o . X o o o o . .
+X . o X o X X X o o
+X o o . o . o o o o
+X . o o o . o o o o
+X o o o o o o o o o
+o o o o o . o . o o
+o o o o o o o o o o
+o o o . o o o . o o
+o o o o o X X X X X
+
+Vencedor: Robin

@@ -1,0 +1,1290 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Barbosa:
+
+i10:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+
+Jogada de JackSparrow:
+
+b1:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+f1:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+
+Jogada de JackSparrow:
+
+e1:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+i1:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+. . . . . . . . . .
+
+Jogada de JackSparrow:
+
+f1:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+j1:Afundou Destroyer
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+m5:Jogada invalida! Jogue novamente JackSparrow:
+
+h1:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+c2:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+i1:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+d2:Afundou Destroyer
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+aa2:Jogada invalida! Jogue novamente JackSparrow:
+
+a2:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+f2:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . . . . . . . . .
+. . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+c2:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o . . . . . . . .
+o . . . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+a3:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X . . . . . . .
+. . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+d2:Afundou Destroyer
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o . . . . . . . .
+o . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+o . . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+c3:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X . . . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+e2:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o . . . . . . . .
+o . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+o o . . . . . . . .
+X . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+f3:Afundou Cruiser
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X . . . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+b54:Jogada invalida! Jogue novamente JackSparrow:
+
+g2:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o . . . . . . . .
+o . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+o o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Barbosa:
+
+i3:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X . . . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+j2:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o . . . . . . . .
+o . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+o o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+a4:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X . . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . . . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+a3:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . . . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+o o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+d4:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X . . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . o . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X . . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+b3:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o . . . . . . .
+. X . . . . . . . .
+. X . . . . . . . .
+o o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+i4:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X . . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . o . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+d3:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o . . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o . . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+a5:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . . . . . . .
+. X . o . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+e3:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o . . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . . . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+c5:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o . . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+f3:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o . . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . . . . . . . .
+o . . . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+d5:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . . . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+h3:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o . . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . . . . . . . .
+o . X . . . . . . .
+o . . . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+e5:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X . . . . .
+X X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+i3:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o . . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . . . . . . . .
+o . X . . . . . . .
+o . o . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+f5:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X . . . . .
+X X X . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+b4:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . . . . . . . .
+o . X . . . . . . .
+o . o . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+g5:Afundou Carrier
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X . . . . .
+X X X . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X . . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+g4:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X . . . . . . .
+o . o . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+i5:Afundou Submarine
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X . . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X . . . . .
+X X X . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+h4:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o . . . . . .
+o . o . . . . . . .
+. o . . . . . . . .
+
+Jogada de Barbosa:
+
+a6:Afundou Battleship
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X . . . . .
+X X X . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+j4:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X . . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o . . . . . .
+o . o . . . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+e6:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . . . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+b5:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X o . . . . .
+. X . . . . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o . . . . . .
+o . o . . . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+b7:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . . . . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+c5:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X o . . . . .
+. X . . o . . . . .
+. X o . . . . . . .
+o o o . . . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o . . . . . .
+o . o . . . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+c7:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o . . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+e5:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X o . . . . .
+. X . . o . . . . .
+. X o . . . . . . .
+o o o . o . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o . . . . . .
+o . o . . . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+f7:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o . . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . . . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+h5:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X o . . . . .
+. X . . o . . . . .
+. X o . . . . . . .
+o o o . o . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o o . . . . .
+o . o . . . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+g7:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o . . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . . . . .
+
+Jogada de JackSparrow:
+
+i5:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . . . . . .
+o . o X o . . . . .
+. X . . o . . . . .
+. X o . . . . . . .
+o o o . o . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+j7:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o . . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+a6:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X . . . .
+o . o X o . . . . .
+. X . . o . . . . .
+. X o . . . . . . .
+o o o . o . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+c8:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o X . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X . . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+c6:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X . . . .
+o . o X o . . . . .
+. X . . o o . . . .
+. X o . . . . . . .
+o o o . o . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+g8:Afundou Destroyer
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o X . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X X . .
+. . . . . . . . . .
+X . X X X . . . . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+d6:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X . . . .
+o . o X o . . . . .
+. X . . o o . . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . . . . . .
+. o . o . . . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+i8:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . . .
+. . . . . . o . . .
+. X o . X . o X . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X X . .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+f6:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X . . . .
+o . o X o . . . . .
+. X . . o o . . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . . . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+a9:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X .
+. . . . . . o . . .
+. X o . X . o X . .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X X . .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+g6:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X . . . .
+o . o X o . . . . .
+. X . . o o . . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . . . . . .
+
+Jogada de Barbosa:
+
+c9:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X .
+. . . . . . o . . .
+. X o . X . o X X .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . . .
+. . . . X . X X . .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+j6:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X . . . .
+o . o X o . . . . .
+. X . . o o . . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+f9:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X .
+. . . . . . o . . .
+. X o . X . o X X .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o .
+. . . . X . X X . .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+a7:Afundou Destroyer
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . . . . .
+. X . . o o . . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+g9:Agua
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X .
+. . . . . . o . . .
+. X o . X . o X X .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o .
+. . . . X . X X o .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+b7:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . o . . .
+. X . . o o . . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+a10:Afundou Destroyer
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X X
+. . . . . . o . . .
+. X o . X . o X X .
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o .
+. . . . X . X X o .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+c7:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . o . . .
+. X . . o o o . . .
+. X o . . X . . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+c10:Afundou Cruiser
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X X
+. . . . . . o . . .
+. X o . X . o X X X
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o .
+. . . . X . X X o .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+d7:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . o . . .
+. X . . o o o . . .
+. X o . . X o . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . . . . .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+f10:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X X
+. . . . . . o . . .
+. X o . X . o X X X
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o X
+. . . . X . X X o .
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+i7:Tiro!
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . o . . .
+. X . . o o o . . .
+. X o . . X o . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . X . . .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+g10:Tiro!
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X X
+. . . . . . o . . .
+. X o . X . o X X X
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o X
+. . . . X . X X o X
+. . . . . . . . . .
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+i9:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . o . . .
+. X . . o o o . . .
+. X o . . X o . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . X . o .
+. o . o . o . . . .
+
+Jogada de Barbosa:
+
+h10:Afundou Battleship
+
+Tabuleiro atual de JackSparrow apos a jogada de Barbosa
+. . X X X X . . X X
+. . . . . . o . . .
+. X o . X . o X X X
+. X . o X . . . . .
+. . . . X o . . . .
+X X X . X . o . o X
+. . . . X . X X o X
+. . . . . . . . . X
+X . X X X . . o . X
+X . . . . . o . . .
+
+Jogada de JackSparrow:
+
+j9:Agua
+
+Tabuleiro atual de Barbosa apos a jogada de JackSparrow
+. o o . . X X . . .
+o . o X o . o . . .
+. X . . o o o . . .
+. X o . . X o . . .
+o o o . o . . . . .
+X . X . . X . . . .
+. o . o . o . . . .
+o . X o o . . . . .
+o . o . X . X . o .
+. o . o . o . . o .
+
+Vencedor: Barbosa

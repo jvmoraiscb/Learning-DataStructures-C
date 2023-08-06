@@ -1,0 +1,474 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Loki:
+
+d1:Agua
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Sylvie:
+
+d6d:Jogada invalida! Jogue novamente Sylvie:
+
+6:Jogada invalida! Jogue novamente Sylvie:
+
+d1:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Loki:
+
+j1:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+j10:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+
+Jogada de Loki:
+
+b10:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+i10:Afundou Destroyer
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+f5:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+a1:Tiro!
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+h6:Agua
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . X . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+h10h:Jogada invalida! Jogue novamente Sylvie:
+
+1:Jogada invalida! Jogue novamente Sylvie:
+
+h3:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+f4:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . X X . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+a2:Afundou Destroyer
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+i1:Afundou Destroyer
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . X X . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+d10:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+a10:Afundou Destroyer
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . X X . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+d9:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+f6:Tiro!
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o . . . . . . . . .
+. . . . . . . . . .
+. . . X X X . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+a:Jogada invalida! Jogue novamente Sylvie:
+
+2:Jogada invalida! Jogue novamente Sylvie:
+
+d6:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+h1h10h5:Jogada invalida! Jogue novamente Loki:
+
+d2:Agua
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o o . . . . . . . .
+. . . . . . . . . .
+. . . X X X . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+a10:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+h10:Agua
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o o . . . . . . . .
+. . . . . . . . . .
+. . . X X X . . . .
+. . . . . . . . . .
+. . . . . o . . . o
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+h:Jogada invalida! Jogue novamente Sylvie:
+
+10:Jogada invalida! Jogue novamente Sylvie:
+
+h10:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . o
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+h1:Agua
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o o . . . . . . . .
+. . . . . . . . . .
+. . . X X X . . . .
+. . . . . . . . . .
+o . . . . o . . . o
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+h8:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . o . o
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+h5:Agua
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o o . . . . . . . .
+. . . . . . . . . .
+. . . X X X . . . .
+. . . . . . . . . .
+o . . . o o . . . o
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+h2:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o o . . . . o . o
+. . . . . . . . . X
+. . . . . . . . . X
+
+Jogada de Loki:
+
+h10f:Jogada invalida! Jogue novamente Loki:
+
+3:Jogada invalida! Jogue novamente Loki:
+
+f3:Afundou Battleship
+
+Tabuleiro atual de Sylvie apos a jogada de Loki
+. . . . . . . . . X
+. . . . . . . . . X
+. . . . . . . . . .
+o o . . . . . . . .
+. . . . . . . . . .
+. . X X X X . . . .
+. . . . . . . . . .
+o . . . o o . . . o
+X . . . . . . . . .
+X . . . . . . . . .
+
+Jogada de Sylvie:
+
+d4:Agua
+
+Tabuleiro atual de Loki apos a jogada de Sylvie
+X X . . . . . . . o
+. . . . . . . . . .
+. . . . . . . . . .
+o . . o . o . . o o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o o . . . . o . o
+. . . . . . . . . X
+. . . . . . . . . X
+
+Vencedor: Loki

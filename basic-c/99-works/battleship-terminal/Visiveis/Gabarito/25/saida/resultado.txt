@@ -1,0 +1,33 @@
+Loki
+d1 - Agua
+j1 - Tiro - Destroyer - ID 02
+b10 - Tiro - Destroyer - ID 01
+f5 - Tiro - Battleship - ID 03
+h6 - Agua
+f4 - Tiro - Battleship - ID 03
+i1 - Tiro - Destroyer - ID 02
+a10 - Tiro - Destroyer - ID 01
+f6 - Tiro - Battleship - ID 03
+d2 - Agua
+h10 - Agua
+h1 - Agua
+h5 - Agua
+f3 - Tiro - Battleship - ID 03
+
+Sylvie
+d1 - Agua
+j10 - Tiro - Destroyer - ID 03
+i10 - Tiro - Destroyer - ID 03
+a1 - Tiro - Destroyer - ID 01
+h3 - Agua
+a2 - Tiro - Destroyer - ID 01
+d10 - Agua
+d9 - Agua
+d6 - Agua
+a10 - Agua
+h10 - Agua
+h8 - Agua
+h2 - Agua
+d4 - Agua
+
+Vencedor: Loki

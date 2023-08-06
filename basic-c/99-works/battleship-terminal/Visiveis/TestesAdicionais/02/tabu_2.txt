@@ -1,0 +1,5 @@
+Carrier;1;1;e3
+Cruiser;2;0;h8
+Battleship;3;0;f1
+Destroyer;4;1;b2
+Submarine;5;1;j3

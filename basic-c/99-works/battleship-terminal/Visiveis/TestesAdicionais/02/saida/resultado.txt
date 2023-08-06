@@ -1,0 +1,91 @@
+jojoAlves
+a2 - Agua
+c5 - Agua
+f10 - Agua
+j3 - Tiro - Submarine - ID 05
+i5 - Agua
+i3 - Agua
+j4 - Tiro - Submarine - ID 05
+j5 - Tiro - Submarine - ID 05
+j6 - Agua
+j2 - Agua
+i9 - Agua
+j10 - Agua
+e5 - Tiro - Carrier - ID 01
+e6 - Tiro - Carrier - ID 01
+e7 - Tiro - Carrier - ID 01
+e4 - Tiro - Carrier - ID 01
+e3 - Tiro - Carrier - ID 01
+c8 - Agua
+c10 - Agua
+a3 - Agua
+a1 - Agua
+c1 - Agua
+f2 - Agua
+g7 - Agua
+g5 - Agua
+h7 - Agua
+h9 - Agua
+a7 - Agua
+b3 - Tiro - Destroyer - ID 04
+c3 - Agua
+b2 - Tiro - Destroyer - ID 04
+b8 - Agua
+i8 - Tiro - Cruiser - ID 02
+h8 - Tiro - Cruiser - ID 02
+j8 - Tiro - Cruiser - ID 02
+g3 - Agua
+c9 - Agua
+d9 - Agua
+g1 - Tiro - Battleship - ID 03
+i1 - Tiro - Battleship - ID 03
+j1 - Agua
+h1 - Tiro - Battleship - ID 03
+f1 - Tiro - Battleship - ID 03
+
+jojoMorais
+a5 - Agua
+c5 - Agua
+g6 - Agua
+f5 - Agua
+d6 - Agua
+a3 - Agua
+g1 - Agua
+d10 - Agua
+h10 - Agua
+i10 - Agua
+j9 - Agua
+e2 - Agua
+f3 - Agua
+h4 - Agua
+j2 - Tiro - Battleship - ID 03
+j3 - Tiro - Battleship - ID 03
+j1 - Tiro - Battleship - ID 03
+j4 - Tiro - Battleship - ID 03
+d8 - Agua
+c2 - Agua
+h7 - Agua
+f8 - Agua
+b9 - Agua
+h2 - Agua
+e4 - Agua
+h6 - Agua
+f7 - Agua
+a1 - Agua
+b3 - Agua
+j6 - Agua
+a8 - Agua
+d1 - Agua
+d3 - Agua
+b7 - Agua
+i6 - Agua
+g3 - Agua
+e9 - Tiro - Carrier - ID 01
+f9 - Agua
+e8 - Tiro - Carrier - ID 01
+e7 - Tiro - Carrier - ID 01
+e6 - Tiro - Carrier - ID 01
+e10 - Tiro - Carrier - ID 01
+i5 - Agua
+
+Vencedor: jojoAlves

@@ -1,0 +1,205 @@
+Mario
+d9 - Tiro - Destroyer - ID 15
+c10 - Agua
+f3 - Agua
+e1 - Tiro - Destroyer - ID 02
+a7 - Agua
+e2 - Agua
+b5 - Agua
+i6 - Agua
+f5 - Agua
+b10 - Tiro - Destroyer - ID 14
+d4 - Agua
+h6 - Tiro - Destroyer - ID 12
+d10 - Tiro - Destroyer - ID 15
+e5 - Agua
+h4 - Tiro - Destroyer - ID 08
+b9 - Agua
+e7 - Agua
+f4 - Agua
+a10 - Tiro - Destroyer - ID 14
+f1 - Agua
+j6 - Tiro - Destroyer - ID 13
+c2 - Agua
+f8 - Agua
+d2 - Agua
+d1 - Tiro - Destroyer - ID 02
+i1 - Agua
+i10 - Agua
+h10 - Tiro - Destroyer - ID 17
+h8 - Agua
+c1 - Agua
+f9 - Tiro - Destroyer - ID 16
+f7 - Tiro - Destroyer - ID 11
+g9 - Agua
+j4 - Agua
+g1 - Tiro - Destroyer - ID 03
+a3 - Tiro - Destroyer - ID 05
+a6 - Agua
+h3 - Tiro - Destroyer - ID 08
+e9 - Agua
+c9 - Agua
+i9 - Agua
+a2 - Agua
+g2 - Agua
+b7 - Tiro - Destroyer - ID 09
+i8 - Agua
+e10 - Agua
+d6 - Tiro - Destroyer - ID 10
+a4 - Tiro - Destroyer - ID 05
+c7 - Agua
+g3 - Agua
+g5 - Agua
+e3 - Tiro - Destroyer - ID 07
+j5 - Agua
+j2 - Tiro - Destroyer - ID 04
+j1 - Tiro - Destroyer - ID 04
+i2 - Agua
+i3 - Agua
+e6 - Agua
+d5 - Agua
+b2 - Agua
+i4 - Agua
+h9 - Tiro - Destroyer - ID 17
+g8 - Agua
+c5 - Agua
+b3 - Agua
+c3 - Tiro - Destroyer - ID 06
+e8 - Agua
+b1 - Tiro - Destroyer - ID 01
+f6 - Tiro - Destroyer - ID 11
+b8 - Agua
+g7 - Agua
+j9 - Tiro - Destroyer - ID 18
+a8 - Agua
+f2 - Agua
+h2 - Agua
+d7 - Tiro - Destroyer - ID 10
+h7 - Tiro - Destroyer - ID 12
+i7 - Agua
+a1 - Tiro - Destroyer - ID 01
+f10 - Tiro - Destroyer - ID 16
+g4 - Agua
+d8 - Agua
+b6 - Tiro - Destroyer - ID 09
+d3 - Agua
+g10 - Agua
+j8 - Agua
+e4 - Tiro - Destroyer - ID 07
+j10 - Tiro - Destroyer - ID 18
+j3 - Agua
+g6 - Agua
+c4 - Tiro - Destroyer - ID 06
+c6 - Agua
+j7 - Tiro - Destroyer - ID 13
+i5 - Agua
+a9 - Agua
+c8 - Agua
+h5 - Agua
+a5 - Agua
+b4 - Agua
+h1 - Tiro - Destroyer - ID 03
+
+Luigi
+c3 - Agua
+j9 - Agua
+b1 - Agua
+a9 - Tiro - Destroyer - ID 14
+g4 - Tiro - Destroyer - ID 08
+i9 - Agua
+h4 - Tiro - Destroyer - ID 08
+c2 - Tiro - Destroyer - ID 02
+e10 - Tiro - Destroyer - ID 16
+j6 - Tiro - Destroyer - ID 13
+j7 - Tiro - Destroyer - ID 13
+g8 - Agua
+c4 - Agua
+a2 - Tiro - Destroyer - ID 01
+h8 - Agua
+j4 - Agua
+a3 - Agua
+b9 - Agua
+d4 - Tiro - Destroyer - ID 07
+g7 - Agua
+h9 - Agua
+b2 - Agua
+h3 - Agua
+e8 - Agua
+g5 - Agua
+c7 - Tiro - Destroyer - ID 10
+d8 - Agua
+f6 - Agua
+i5 - Agua
+i6 - Agua
+a7 - Tiro - Destroyer - ID 09
+i8 - Agua
+h10 - Agua
+b4 - Tiro - Destroyer - ID 06
+i2 - Tiro - Destroyer - ID 05
+d5 - Agua
+e1 - Tiro - Destroyer - ID 03
+f4 - Agua
+i4 - Agua
+c5 - Agua
+h6 - Tiro - Destroyer - ID 12
+g1 - Tiro - Destroyer - ID 04
+i10 - Tiro - Destroyer - ID 18
+a6 - Tiro - Destroyer - ID 09
+d9 - Agua
+b8 - Agua
+d2 - Agua
+c6 - Tiro - Destroyer - ID 10
+g3 - Agua
+a10 - Tiro - Destroyer - ID 14
+i3 - Agua
+e3 - Agua
+f1 - Agua
+d1 - Agua
+c8 - Agua
+h5 - Agua
+e4 - Tiro - Destroyer - ID 07
+d7 - Agua
+e5 - Agua
+g10 - Tiro - Destroyer - ID 17
+a5 - Agua
+b7 - Agua
+d3 - Agua
+c9 - Tiro - Destroyer - ID 15
+h2 - Agua
+b10 - Agua
+b5 - Agua
+f7 - Agua
+j8 - Agua
+f5 - Agua
+e9 - Tiro - Destroyer - ID 16
+e6 - Tiro - Destroyer - ID 11
+f2 - Agua
+d10 - Agua
+e2 - Tiro - Destroyer - ID 03
+a1 - Tiro - Destroyer - ID 01
+h7 - Tiro - Destroyer - ID 12
+j5 - Agua
+g6 - Agua
+i7 - Agua
+h1 - Agua
+f3 - Agua
+j1 - Agua
+i1 - Tiro - Destroyer - ID 05
+f10 - Agua
+b3 - Agua
+g2 - Tiro - Destroyer - ID 04
+b6 - Agua
+d6 - Agua
+c10 - Tiro - Destroyer - ID 15
+a4 - Tiro - Destroyer - ID 06
+j3 - Agua
+e7 - Tiro - Destroyer - ID 11
+f9 - Agua
+c1 - Tiro - Destroyer - ID 02
+g9 - Tiro - Destroyer - ID 17
+a8 - Agua
+f8 - Agua
+j2 - Agua
+j10 - Tiro - Destroyer - ID 18
+
+Empate

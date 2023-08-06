@@ -1,0 +1,110 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Leticia:
+
+b3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Thiago:
+
+mhm:Jogada invalida! Jogue novamente Thiago:
+
+a2:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. X . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Leticia:
+
+jjj:Jogada invalida! Jogue novamente Leticia:
+
+b1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . . . . .
+o . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Thiago:
+
+b3s:Jogada invalida! Jogue novamente Thiago:
+
+a3:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. X X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Leticia:
+
+222:Jogada invalida! Jogue novamente Leticia:
+
+b2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . . . . .
+o o o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Thiago:
+
+a4c:Jogada invalida! Jogue novamente Thiago:
+
+a4:Afundou Submarine
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. X X X . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Vencedor: Thiago

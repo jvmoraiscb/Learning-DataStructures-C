@@ -1,0 +1,3204 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Mario:
+
+d9:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . X .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+c3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Mario:
+
+c10:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+j9:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+f3:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+b1:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . . .
+o . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+e1:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+X . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+a9:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+a7:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+X . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+g4:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+e2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+X o . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+i9:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X . . . . . .
+. . . . . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+b5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+X o . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+h4:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X . . . . . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+i6:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+X o . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+c2:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. X o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . X . . . . . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+f5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . .
+. . . . . . . . . o
+. . . . . . . . X .
+X o . . . . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+e10:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. X o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . . . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . . . . o .
+
+Jogada de Mario:
+
+b10:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . X
+. . . . . . . . . o
+. . . . . . . . X .
+X o . . . . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+j6:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. X o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . . . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . X . . o .
+
+Jogada de Mario:
+
+d4:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . X
+. . . . . . . . . o
+. . . o . . . . X .
+X o . . . . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+j7:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. X o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . . . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . X X . o .
+
+Jogada de Mario:
+
+h6:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . X
+. . . . . . . . . o
+. . . o . . . . X .
+X o . . . . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+g8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. X o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . X X . o .
+
+Jogada de Mario:
+
+d10:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . . . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+c4:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. . . . . . . . X .
+o . . . . . . . . .
+. X o o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . X X . o .
+
+Jogada de Mario:
+
+e5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . . . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+a2:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X . . . . . . X .
+o . . . . . . . . .
+. X o o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . . . .
+. . . . . . . . o .
+. . . . . X X . o .
+
+Jogada de Mario:
+
+h4:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . . X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+h8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X . . . . . . X .
+o . . . . . . . . .
+. X o o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . o . .
+. . . . . . . . o .
+. . . . . X X . o .
+
+Jogada de Mario:
+
+b9:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . o X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . . . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+j4:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X . . . . . . X .
+o . . . . . . . . .
+. X o o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . o . .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+e7:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . o X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+. . o . o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+a3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o . . . . . . . . .
+. X o o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . o . .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+f4:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . .
+. . . . o . . . o X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+. . o o o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+b9:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o . . . . . . . o .
+. X o o . . . . . .
+. . . . . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . o . .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+a10:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+. . o o o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+d4:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o . . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . . o . .
+. . . X . . . o . .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+f1:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+o . o o o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . . . . . .
+
+Jogada de Luigi:
+
+g7:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o . . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . o o . .
+. . . X . . . o . .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+j6:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. . . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+o . o o o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+h9:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o . . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . o o . .
+. . . X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+c2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+o . o o o . . . . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+b2:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . o o . .
+. . . X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+f8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+. . . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+h3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . . . X
+. . . . . . . . . .
+. . . X . . o o . .
+. . o X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+d2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+. o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+e8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . o . X
+. . . . . . . . . .
+. . . X . . o o . .
+. . o X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+d1:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . . . .
+. . . . . o . . . .
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+g5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . . . . .
+. . . X . . . . . .
+. . . . . . . o . X
+. . . . . . . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i1:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . . . .
+o . . . . o . . . .
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+c7:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . . . .
+. . . . . . . o . X
+. . . . . . . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i10:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . . . .
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+d8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . . . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+h10:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . . . X
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+f6:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . . . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+h8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+. o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+i5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . o . . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+c1:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o . .
+. . . . . . . . . .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+i6:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . . . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . o o . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+f9:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . . o X .
+. . . . . . . . . .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+a7:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . o o . . o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+f7:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+. . . . . . . . . .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+i8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o .
+. . . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+g9:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+. . . . . . . . o .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . . . X . . . .
+
+Jogada de Luigi:
+
+h10:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . . . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. . . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+j4:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+. . . . . . . . o .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+b4:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. . . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+g1:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . . . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+X . . . . . . . o .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+i2:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o . . X . . .
+. . . X . . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. X . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+a3:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . X . . . o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+X . . . . . . . o .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+d5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o . . X . . .
+. . . X o . . o . .
+. . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. X . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+a6:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+X . . . . . . . o .
+. . . X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+e1:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o . . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . . . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. X . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+h3:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . . .
+o . o o o . X o X .
+X . . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+f4:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o . . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. X . . o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+e9:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . . o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X . . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+i4:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o . . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. X . o o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+c9:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X . . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . . o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+c5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o o . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+. . . X o . o o . .
+. . o X . . . o o o
+. X . o o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i9:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. . X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X . . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+h6:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o o . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+. . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+a2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X . . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+g1:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o o . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o .
+. . . o . X X . o .
+
+Jogada de Mario:
+
+g2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X . . o o . . X
+. . . . o . . . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+i10:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . . X . X .
+o o . X . . . . o .
+. X o o o . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+b7:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X . . o o . . X
+. . . . o . X . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . . o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+a6:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X .
+o o . X . . . . o .
+. X o o o . X . . .
+. . . X o . . o . .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X . . o o . . X
+. . . . o . X . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o .
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+d9:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X .
+o o . X . . . . o .
+. X o o o . X . . .
+. . . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+e10:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X . . o o . . X
+. . . . o . X . o X
+o o . . . . . . o o
+X o . o . . . . X X
+X o . . o . o . o o
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+b8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X .
+o o . X . . . o o .
+. X o o o . X . . .
+. . . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+d6:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X . . o o . . X
+. . . . o . X . o X
+o o . . . . . . o o
+X o . o . X . . X X
+X o . . o . o . o o
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+d2:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X .
+o o . X . . . o o .
+. X o o o . X . . .
+. o . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+a4:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . . . o o
+X o . o . X . . X X
+X o . . o . o . o o
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+c6:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X .
+o o . X . . . o o .
+. X o o o X X . . .
+. o . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . . X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+c7:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o . . o . o . o o
+o . o o o . X o X .
+X o . . . . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+g3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X .
+o o . X . . . o o .
+. X o o o X X . . .
+. o . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+g3:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o . . o . o . o o
+o . o o o . X o X .
+X o o . . . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+a10:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X . . .
+. o . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X . o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+g5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o . . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+i3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X . . .
+. o . X o . . o o .
+X . . . . . . o . X
+. . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+e3:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o . X . . . .
+
+Jogada de Luigi:
+
+e3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X . . .
+. o . X o . . o o .
+X . o . . . . o . X
+. . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+j5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. . . o o X . . . .
+
+Jogada de Luigi:
+
+f1:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X . . .
+. o . X o . . o o .
+X . o . . . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+j2:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+. X . o o X . . . .
+
+Jogada de Luigi:
+
+d1:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X . . .
+o o . X o . . o o .
+X . o . . . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+j1:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o . . . . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+c8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . . o o .
+X . o . . . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X . X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o o . . . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+h5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . . o o .
+X . o . . . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i3:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o . o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o o o . . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+e4:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . . o o .
+X . o X . . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+e6:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o . X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o o o . . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+d7:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . o o o .
+X . o X . . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+d5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. . . . o . X . o X
+o o . . . . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o o o . . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+e5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . .
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+b2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o . . o . X . o X
+o o . . . . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o o o . . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+g10:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . . X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+i4:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o . . o . X . o X
+o o . . . . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o . X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+a5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X . . . o o .
+. X o o o X X o . .
+o o . X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+h9:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o . . o . X . o X
+o o . . . . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . . o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+b7:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X . . o o o .
+. X o o o X X o . .
+o o . X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+g8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o . . o . X . o X
+o o . . . . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+d3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X . . o o o .
+. X o o o X X o . .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+c5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o . . o . X . o X
+o o . . o . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+c9:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X . . o o o .
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. . o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+b3:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o o . o . X . o X
+o o . . o . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+h2:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X . . o o o .
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+c3:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o o . o . X . o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o . o o
+o . o o o . X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+b10:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X . . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+e8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+. o o . o . X . o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o . X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+b5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o . . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+b1:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+X o o . o . X . o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o . X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+f7:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X . o .
+
+Jogada de Mario:
+
+f6:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+X o o . o . X . o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o X X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+j8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o . o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+b8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o X X o X .
+X o o . o . . o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+f5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o . X
+o . . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+g7:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o X X o X .
+X o o . o . o o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . . .
+
+Jogada de Luigi:
+
+e9:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o . . o X X
+o . . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+j9:Tiro!
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o . . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o X X o X .
+X o o . o . o o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+e6:Tiro!
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o X . o X X
+o . . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+a8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o . o o o X X o X .
+X o o . o . o o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+f2:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o .
+X . o X o X . o X X
+o o . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+f2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o o o o o X X o X .
+X o o . o . o o o .
+. . X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+d10:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X . o X o X . o X X
+o o . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+h2:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X . . X X
+X o X . o o o o o o
+o o o o o X X o X .
+X o o . o . o o o .
+. o X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+e2:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+. X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+d7:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X . X X
+X o X . o o o o o o
+o o o o o X X o X .
+X o o . o . o o o .
+. o X X . X . o X X
+o o o o . o . o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+a1:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o . o o . X
+. o o X o X . o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+h7:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X . X X
+X o X . o o o o o o
+o o o o o X X o X .
+X o o . o . o o o .
+. o X X . X X o X X
+o o o o . o . o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+h7:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o . o o . X
+. o o X o X X o o o
+. X o o o o . o o X
+. . . o . X X o o .
+
+Jogada de Mario:
+
+i7:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+. o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X . X X
+X o X . o o o o o o
+o o o o o X X o X .
+X o o . o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+j5:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o . o o . X
+. o o X o X X o o o
+. X o o o o . o o X
+. . . o o X X o o .
+
+Jogada de Mario:
+
+a1:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X . X X
+X o X . o o o o o o
+o o o o o X X o X .
+X o o . o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+g6:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o o o o . X
+. o o X o X X o o o
+. X o o o o . o o X
+. . . o o X X o o .
+
+Jogada de Mario:
+
+f10:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X . X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o . o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+i7:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o o o o . X
+. o o X o X X o o o
+. X o o o o o o o X
+. . . o o X X o o .
+
+Jogada de Mario:
+
+g4:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X . X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o o o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+h1:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o . o o o o . . .
+X . o X o o o o . X
+o o o X o X X o o o
+. X o o o o o o o X
+. . . o o X X o o .
+
+Jogada de Mario:
+
+d8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o . X o o X
+o o X . o . o . o o
+X o . o o X X o X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o o o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+f3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . .
+X . o X o o o o . X
+o o o X o X X o o o
+. X o o o o o o o X
+. . . o o X X o o .
+
+Jogada de Mario:
+
+b6:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o . o o X X o X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o o o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+j1:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . .
+X . o X o o o o . X
+o o o X o X X o o o
+. X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+d3:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o o o . o o o .
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+i1:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . .
+X . o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+g10:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o o o . o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . . X .
+
+Jogada de Luigi:
+
+f10:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o . X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X . o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+j8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X . o o o o o o
+o o o o o X X o X X
+X o o o o . o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . o X .
+
+Jogada de Luigi:
+
+b3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o o X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X . o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+e4:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o . o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . o X .
+
+Jogada de Luigi:
+
+g2:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o o X o . o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+j10:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o . o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X . o o X . o X X
+
+Jogada de Luigi:
+
+b6:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o o X o o o o o o
+. X o o o X X o X .
+o o o X o . o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+j3:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o . o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X o o o X . o X X
+
+Jogada de Luigi:
+
+d6:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o o X o o o o o o
+. X o o o X X o X .
+o o o X o o o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+g6:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X . o . o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X o o o X . o X X
+
+Jogada de Luigi:
+
+c10:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o . o X X . X X
+o o o X o o o o o o
+. X o o o X X o X X
+o o o X o o o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+c4:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X X o . o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X o o o X . o X X
+
+Jogada de Luigi:
+
+a4:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X . X X
+o o o X o o o o o o
+. X o o o X X o X X
+o o o X o o o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . . o o X X o o .
+
+Jogada de Mario:
+
+c6:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X X o o o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X o o o X . o X X
+
+Jogada de Luigi:
+
+j3:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X . X X
+o o o X o o o o o o
+. X o o o X X o X X
+o o o X o o o o o o
+X X o X o X . o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+j7:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X X o o o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o . o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+e7:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X . X X
+o o o X o o o o o o
+. X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o . . o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+i5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o . X
+X o o . o X X o o X
+o o X X o o o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+f9:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X . X X
+o o o X o o o o o o
+. X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o . o o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+a9:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o o X
+X o o . o X X o o X
+o o X X o o o . o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+c1:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X . X X
+o o o X o o o o o o
+X X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o . o o
+X X o X o o o o . X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+c8:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o o X
+X o o . o X X o o X
+o o X X o o o o o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X . X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+g9:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X . X X
+o o o X o o o o o o
+X X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o . o o
+X X o X o o o o X X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+h5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X . o o o o X
+X o o . o X X o o X
+o o X X o o o o o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X o X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+a8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X o X X
+o o o X o o o o o o
+X X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o . o o
+X X o X o o o o X X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+a5:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X o o o o o X
+X o o . o X X o o X
+o o X X o o o o o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X o X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+f8:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X o X X
+o o o X o o o o o o
+X X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o o o o
+X X o X o o o o X X
+o o o X o X X o o o
+X X o o o o o o o X
+o . o o o X X o o .
+
+Jogada de Mario:
+
+b4:Agua
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X o o o o o X
+X o o o o X X o o X
+o o X X o o o o o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+. o X X o X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+j2:Agua
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X o X X
+o o o X o o o o o o
+X X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o o o o
+X X o X o o o o X X
+o o o X o X X o o o
+X X o o o o o o o X
+o o o o o X X o o .
+
+Jogada de Mario:
+
+h1:Afundou Destroyer
+
+Tabuleiro atual de Luigi apos a jogada de Mario
+X o X X o o o o o X
+X o o o o X X o o X
+o o X X o o o o o o
+X o o o o X X o X X
+X o X X o o o o o o
+o o o o o X X o X X
+X o o o o o o o o o
+X o X X o X X o X X
+o o o o o o o o o o
+X X o o o X X o X X
+
+Jogada de Luigi:
+
+j10:Afundou Destroyer
+
+Tabuleiro atual de Mario apos a jogada de Luigi
+X X o X o X X o X X
+o o o X o o o o o o
+X X o o o X X o X X
+o o o X o o o o o o
+X X o X o X X o X X
+o o o o o o o o o o
+X X o X o o o o X X
+o o o X o X X o o o
+X X o o o o o o o X
+o o o o o X X o o X
+
+Empate

@@ -1,0 +1,17 @@
+Leticia
+Tiros Errados: 60
+Tiros Acertados: 5
+Localizacao Media: (6.02,5.37)
+Desvio Padrao da Localizacao: 4.05
+Navios de Leticia:
+51 - Destroyer - ID 02
+29 - Submarine - ID 01
+
+Thiago
+Tiros Errados: 63
+Tiros Acertados: 2
+Localizacao Media: (5.51,5.43)
+Desvio Padrao da Localizacao: 4.07
+Navios de Thiago:
+42 - Destroyer - ID 02
+05 - Submarine - ID 01

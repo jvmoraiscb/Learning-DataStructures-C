@@ -1,0 +1,22 @@
+Luiza
+Tiros Errados: 32
+Tiros Acertados: 17
+Localizacao Media: (5.31,5.35)
+Desvio Padrao da Localizacao: 4.04
+Navios de Luiza:
+17 - Battleship - ID 03
+05 - Carrier - ID 01
+40 - Cruiser - ID 02
+24 - Submarine - ID 05
+
+Marina
+Tiros Errados: 34
+Tiros Acertados: 15
+Localizacao Media: (5.29,5.35)
+Desvio Padrao da Localizacao: 3.93
+Navios de Marina:
+32 - Battleship - ID 03
+15 - Carrier - ID 01
+08 - Cruiser - ID 02
+47 - Destroyer - ID 04
+01 - Submarine - ID 05

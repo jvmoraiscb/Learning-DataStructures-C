@@ -1,0 +1,3 @@
+Destroyer;1;1;a1
+Battleship;2;0;d5
+Destroyer;3;0;i10

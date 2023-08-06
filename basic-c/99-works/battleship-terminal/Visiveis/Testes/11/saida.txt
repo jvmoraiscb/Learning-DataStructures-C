@@ -1,0 +1,3076 @@
+Nome do Jogador 1:
+Nome do Jogador 2:
+
+Jogada de Leticia:
+
+a7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Thiago:
+
+e3:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Leticia:
+
+h2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Thiago:
+
+d1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+. . X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Leticia:
+
+j7:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+d6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . . .
+. . X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+
+Jogada de Leticia:
+
+a10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o . . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+j1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . . . .
+. . X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+h3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+d8:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . X . .
+. . X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+d3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+a8:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . X . .
+. . X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+f3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+e2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+. . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . X . .
+. o X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+e7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+a1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . X . .
+. o X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+d7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . . . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+i3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . X . .
+. o X . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+a4:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . X . . o . . o
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+e4:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o . . . . o . X . .
+. o X X . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+b3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . X . . o . . o
+. . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . . . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+d2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o o . . . o . X . .
+. o X X . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+i5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . X . . o . . o
+. . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . o . . . . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+e9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. . . . . . . . . .
+. . . . . . . . . .
+o o . . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+i8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+. . . X . . o . . o
+. . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+b2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. o . . . . . . . .
+. . . . . . . . . .
+o o . . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+a1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+. . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+c5:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . . o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o . . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+b1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . . . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+a7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o . . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+i3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+d3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . . . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+f10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . . . . .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . o
+. . . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+g3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . o . . . . . . .
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+c9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . . . o .
+. . o . . . o . . .
+. . . . . . o . . .
+. . o . . . . . . o
+. . . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+g10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . o . . . . . . o
+. . . . . . . . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+e5:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . . . o .
+. . o . . . o . . .
+. . . . X . o . . .
+. . o . . . . . . o
+. . . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+h7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . o . . . . . . o
+. . . . . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+d2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . . . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . . . . o
+. . . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+h4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o . X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . o . . . . . . o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+c7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . . . . o
+. . . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+d7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . o . . . . . . o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+g2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . . . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+g9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o .
+. . . . . . . . . .
+. . o . . . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+f7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. . . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . o . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+g1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o .
+. . . . . . . . . .
+o . o . . . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+c2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. o . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . o . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. . . . . . X . . .
+
+Jogada de Thiago:
+
+f7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o .
+. . . . . . o . . .
+o . o . . . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+j2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o . . X . . o . . o
+o . o . . . . . . .
+. o . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . o . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+f1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o .
+o . . . . . o . . .
+o . o . . . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+a2:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . . . . .
+. o . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . . . o . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+e10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o o
+o . . . . . o . . .
+o . o . . . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+f5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . . . . .
+. o . . . . o . o .
+. o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+f2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o o
+o o . . . . o . . .
+o . o . . . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+d1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . . . . .
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . . . . . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+g5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o . . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o o
+o o . . . . o . . .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+g6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . . . . .
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . . . o . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+a2:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . . . . o o
+o o . . . . o . . .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+b7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o . . .
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . . . o . . . .
+. o o . . . . . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+e6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . . . . o . . .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+h7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o . . .
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . . . o . . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+f9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . . . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+g4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o . . .
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o . . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+f4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . . . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+b8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . .
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o . . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+b8:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . . . . . .
+
+Jogada de Leticia:
+
+b10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o . . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+j6:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o . . . . X . . . .
+
+Jogada de Leticia:
+
+g7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . . . . X . . .
+
+Jogada de Thiago:
+
+j2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. . . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . . . .
+
+Jogada de Leticia:
+
+j4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . o . . X . . .
+
+Jogada de Thiago:
+
+c2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. o . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . . . .
+
+Jogada de Leticia:
+
+j9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . . .
+. . o . o . . o . .
+. o . o . . X . o .
+
+Jogada de Thiago:
+
+j9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. o . . X . . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . . o .
+
+Jogada de Leticia:
+
+h10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . . . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . . o
+. . o . o . . o . .
+. o . o . . X . o .
+
+Jogada de Thiago:
+
+c6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. o . . X o . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+. . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . . o .
+
+Jogada de Leticia:
+
+c5:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. . o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . . o
+. . o . o . . o . .
+. o . o . . X . o .
+
+Jogada de Thiago:
+
+h1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. o . . X o . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . . o .
+
+Jogada de Leticia:
+
+f2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . . o
+. . o . o . . o . .
+. o . o . . X . o .
+
+Jogada de Thiago:
+
+j8:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o . .
+. o . . . . . o . .
+. o . . X o . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+h9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . o o
+. . o . o . . o . .
+. o . o . . X . o .
+
+Jogada de Thiago:
+
+a9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . . o . .
+. o . . X o . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o . . o . . o . . .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+j5:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . . .
+. . . . X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+h9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . . o . .
+. o . . X o . . . .
+o o o . . o o X . .
+. o X X . o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o . . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+d9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . o .
+. . . . X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+e5:Afundou Submarine
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . . o . .
+. o . . X o . . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o . . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+e4:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . . . o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+c7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . . o . .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o . . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+h6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . . o o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+h2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . . o . .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o o . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+h5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o . o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . o o o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+b9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . . o o .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o o . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+d8:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . . o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . o o o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+b7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . o o o .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o . o . . . o o
+o o . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+a9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . o o o . o o
+. . o . o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+g4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . . . . o o o .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+i4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . o o o . o o
+. . o o o . . o . .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+b4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o . o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+i9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+. . . X X . o . . .
+. o o . o . o . . o
+. o . o . o o . . .
+. o o . o o o . o o
+. . o o o . . o o .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+h3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . . .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o o o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+g1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+. . . X X . o . . .
+. o o . o . o . . o
+o o . o . o o . . .
+. o o . o o o . o o
+. . o o o . . o o .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+c9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o o o . . o . o .
+. . o . . . . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+e1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o . o . . o
+o o . o . o o . . .
+. o o . o o o . o o
+. . o o o . . o o .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+i6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o o o . . o . o .
+. . o . . o . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+i7:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o . o . . o
+o o . o . o o . . .
+. o o . o o o . o o
+. . o o o . o o o .
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+i5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o o o . . o . o .
+. . o . o o . . . .
+o o . . . X . o o .
+
+Jogada de Leticia:
+
+i10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o . o . . o
+o o . o . o o . . .
+. o o . o o o . o o
+. . o o o . o o o o
+. o . o X . X . o .
+
+Jogada de Thiago:
+
+j10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . . . o o
+o o o o . . o . o .
+. . o . o o . . . .
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+j6:Afundou Submarine
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o . o . . o
+o o . o . o o . . .
+. o o . o o o . o o
+. . o o o . o o o o
+. o . o X X X . o .
+
+Jogada de Thiago:
+
+g7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o . . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o . o o
+o o o o . . o . o .
+. . o . o o . . . .
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+h1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o . o . . o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+. o . o X X X . o .
+
+Jogada de Thiago:
+
+b5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o . o o
+o o o o . . o . o .
+. . o . o o . . . .
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+f6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o o o . . o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+. o . o X X X . o .
+
+Jogada de Thiago:
+
+i10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+. o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o . o o
+o o o o . . o . o .
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+f9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o o o . o o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+. o . o X X X . o .
+
+Jogada de Thiago:
+
+c1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o . . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o . o o
+o o o o . . o . o .
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+j3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X . o . . .
+. o o . o o o . o o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+. o o o X X X . o .
+
+Jogada de Thiago:
+
+c3:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o X . X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o . o o
+o o o o . . o . o .
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+e6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o . o o o . o o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+. o o o X X X . o .
+
+Jogada de Thiago:
+
+c4:Afundou Submarine
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o X X X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o . o o
+o o o o . . o . o .
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+j8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o . o o o . o o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+. o o o X X X o o .
+
+Jogada de Thiago:
+
+g8:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o X X X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o . . o . o .
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+j1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o . o o o . o o
+o o . o . o o . . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+h10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o X X X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o . . o . o o
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+g8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o . o o o . o o
+o o . o . o o o . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+h5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o X X X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . . o
+o o . . . X . o o o
+
+Jogada de Leticia:
+
+f4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o o o o o . o o
+o o . o . o o o . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+j7:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o .
+o o X X X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . . o
+o o . . . X X o o o
+
+Jogada de Leticia:
+
+g3:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . . . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+b10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o .
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . . o
+o o . . . X X o o o
+
+Jogada de Leticia:
+
+b5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . . .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+c10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o . . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . . o
+o o . . . X X o o o
+
+Jogada de Leticia:
+
+e9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o . . X . o . o .
+o o o . . . o X o .
+o . . X X o o . o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+d4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . . o
+o o . . . X X o o o
+
+Jogada de Leticia:
+
+c8:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o . . X . o X o .
+o o o . . . o X o .
+o . . X X o o . o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o . o o
+. . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+j3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . . o
+o o o . . X X o o o
+
+Jogada de Leticia:
+
+i1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o . . X . o X o .
+o o o . . . o X o .
+o . . X X o o . o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o . o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+i9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . o o
+o o o . . X X o o o
+
+Jogada de Leticia:
+
+h8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o . . X . o X o .
+o o o . . . o X o .
+o . . X X o o . o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+j4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o . . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+e8:Afundou Submarine
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o . . X . o X o .
+o o o . . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+i7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . . o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+c3:Tiro!
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X . X . o X o .
+o o o . . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+a6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o . o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+d4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X . X . o X o .
+o o o o . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o . .
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+b6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+. o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+g10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X . X . o X o .
+o o o o . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o . o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+e1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+o o X X X o . . o o
+o o . o . . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+g9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X . X . o X o .
+o o o o . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+f5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X . .
+o o X X X o . . o o
+o o . o o . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+c4:Afundou Submarine
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o .
+
+Jogada de Thiago:
+
+d9:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o . o o . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+j10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o . o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+f3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o . X X o o o
+
+Jogada de Leticia:
+
+g5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o . . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+j5:Afundou Submarine
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o . o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+d5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o .
+o . . X X o o X o .
+. o o o o o o . o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+i4:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o .
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+f8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o .
+o . . X X o o X o .
+. o o o o o o o o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+a10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o o
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o . o o o o
+o o o o o . o . o o
+. . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+d10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X . . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . . X X o o X o .
+. o o o o o o o o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+g6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o o
+. o . o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+. . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+a5:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . . X X o o X o .
+. o o o o o o o o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o . o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+b3:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . . . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+. . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+i6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . . X X o o X o .
+. o o o o o o o o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+a4:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o . . o o
+o o o o o . o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+. . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+e10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . . X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o . o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+e7:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o o . o o
+o o o o o . o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+. . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+h4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . . X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+i1:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o o . o o
+o o o o o . o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+e3:Afundou Submarine
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o . o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+f6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X . X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o o . o o
+o o o o o o o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+a8:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o o o o
+o . o . o . o o . o
+. o X X X . o X o .
+o o o o o . o X o o
+o . X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+a3:Afundou Submarine
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o o . o o
+o o o o o o o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+b9:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o o o o
+o . o . o . o o o o
+. o X X X . o X o .
+o o o o o . o X o o
+o . X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+e8:Tiro!
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o . o o X o .
+o o X X X o o X o o
+o o o o o o o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+b4:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o o o o
+o . o o o . o o o o
+. o X X X . o X o .
+o o o o o . o X o o
+o . X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+d5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o .
+o o X X X o o X o o
+o o o o o o o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+i2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o . o o o o
+o . o o o . o o o o
+. o X X X . o X o .
+o o o o o . o X o o
+o . X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+d10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o .
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+a6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o o o o o o
+o . o o o . o o o o
+. o X X X . o X o .
+o o o o o . o X o o
+o . X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+f10:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o o . o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+e2:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o o o o o o
+o . o o o . o o o o
+. o X X X . o X o .
+o o o o o . o X o o
+o o X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+h6:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o o o o . o o
+o . o o o o o . o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+c10:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o o o o o o
+o . o o o . o o o o
+. o X X X . o X o o
+o o o o o . o X o o
+o o X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+i8:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+c6:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o o o o o o
+o . o o o . o o o o
+. o X X X o o X o o
+o o o o o . o X o o
+o o X X X o o X o o
+. o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+g2:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X . o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o o
+o o o o o o o o o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+f1:Agua
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X . X o o o o o o
+o . o o o . o o o o
+. o X X X o o X o o
+o o o o o . o X o o
+o o X X X o o X o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+a5:Agua
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X o o o o o o
+. o o o o o o o o o
+o o X X X o o . o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o o
+o o o o o o o o o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Leticia:
+
+a3:Afundou Submarine
+
+Tabuleiro atual de Thiago apos a jogada de Leticia
+o X X X o o o o o o
+o . o o o . o o o o
+. o X X X o o X o o
+o o o o o . o X o o
+o o X X X o o X o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X X X o o o
+
+Jogada de Thiago:
+
+c8:Afundou Submarine
+
+Tabuleiro atual de Leticia apos a jogada de Thiago
+o X X X o o o o o o
+. o o o o o o o o o
+o o X X X o o X o o
+o o o o o o o X o o
+o o X X X o o X o o
+o o o o o o o . o o
+o o o o o o o o o o
+o o o o o o o . o o
+o . o o o o o o o o
+o o o o X X X o o o
+
+Empate

@@ -1,0 +1,23 @@
+Loki
+X X o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o X o o o o o
+o o o o X o o o o o
+o o o o X o o o o o
+o o o o X o o o o o
+o o o o o o o o o o
+o o o o o o o o o X
+o o o o o o o o o X
+
+Sylvie
+o o o o o o o o o X
+o o o o o o o o o X
+o o o o o o o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+o o X X X X o o o o
+o o o o o o o o o o
+o o o o o o o o o o
+X o o o o o o o o o
+X o o o o o o o o o
